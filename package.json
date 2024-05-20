@@ -1,7 +1,7 @@
 {
-  "name": "cpns-bot",
+  "name": "agri-guide",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index2.js",
   "scripts": {
     "start": "index2.js"
   },
